@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @atahankocak
 - 👀 I’m interested in machine learning and automation
-- 🌱 I’m currently learning machone learning engineering
+- 🌱 I’m currently learning machine learning engineering
 - 💞️ I’m looking to collaborate on automated solutions
 - 📫 How to reach me email: ata.kocak@gmail.com
 
